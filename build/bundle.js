@@ -1321,7 +1321,7 @@ var app = (function () {
 
     function instance$1($$self, $$props, $$invalidate) {
     	console.log(image);
-    	let arrow = "/image/pngtree-arrow-sketch-2902205-png-image_1733937.png";
+    	let arrow = "image/pngtree-arrow-sketch-2902205-png-image_1733937.png";
     	let disabled = true;
     	let max = 10;
     	let min = 0;
